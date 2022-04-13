@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# BuscadorCEP
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Código desenvolvido em ReactJS seguindo os passos do canal "Sujeito programador"
 
 ## Available Scripts
 
